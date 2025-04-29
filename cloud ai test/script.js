@@ -1,5 +1,5 @@
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent';
-const API_KEY = 'AIzaSyA52ThAMFAZBondApRIHteC-sTGcWu9Uos';
+const API_KEY = 'API_KEY';
 
 const chatContainer = document.querySelector('.chat-container');
 const prompt = document.querySelector('#prompt');
